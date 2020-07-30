@@ -1,0 +1,76 @@
+
+.myDiv {
+    border: 3px outset rgb(15, 3, 70);
+    background-image: url(imaes.jpeg);
+    background-image: no-repeat;
+   
+    
+    text-align: center;
+  }
+  .kot{
+    height:100px ;
+    width: 200px; ;
+  }
+.main{
+  display: flex;
+  justify-content: space-between;
+}
+  li{
+    list-style-type: none;
+    padding-right: 50px;
+    color:black;
+  }
+  ol{
+    display: flex;
+    justify-content: space-between;
+    display:flex;
+    list-style: none;
+    justify-content: space-between;
+    padding-top: 20px;
+    padding-left: 50px;
+  }
+  .low
+{
+    padding-right: 50px;
+    padding-top: 40px;
+}
+.cen{
+  text-align: center;
+}
+.fom{
+  display: flex;
+  justify-content: space-between;
+  padding-right: 400px;
+  padding-left: 400px;
+}
+.lom{
+  display: flex;
+  justify-content: space-between;
+  padding-right: 50px;
+
+}
+.go{
+  border-radius: 40px;
+}
+.hu{
+border-radius: 30px;
+    color: black;
+    text-align: center;
+    
+    width:70px;
+    height:35px;
+}
+h1{
+  color:black;
+}
+h3{
+  color: black;
+}
+.loop{
+  color:black;
+  border-radius: 40px;
+  height: 40px;
+  width: 100px;
+  
+  
+}
