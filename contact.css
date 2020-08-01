@@ -36,12 +36,16 @@
 }
 .cen{
   text-align: center;
+  background-color: rgb(250, 168, 17);
+
 }
 .fom{
   display: flex;
   justify-content: space-between;
   padding-right: 400px;
   padding-left: 400px;
+
+  background-color: rgb(250, 168, 17);
 }
 .lom{
   display: flex;
